@@ -5,7 +5,7 @@ This project aims to analyze gold prices across various cities and states using 
 # Data Collection: <br>
 We gather real-time and historical gold price data for different cities and states using the RapidAPI Gold Prices API. The data is fetched through a Python script that makes API calls, retrieves the data, and stores it in a structured format, such as a CSV file. <br>
 
-# Data Analysis: <br>
+# Exploratory Data Analysis: <br>
 The collected data is then analyzed to uncover trends, patterns, and insights. This includes calculating average gold prices by city and state, tracking monthly price trends, and identifying any significant fluctuations over the past four months. The analysis is performed using Python libraries such as Pandas. <br>
 
 # Data Visualization: <br>
