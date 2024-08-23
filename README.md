@@ -20,6 +20,14 @@ To make the insights more accessible, we visualize the data through graphs and c
 **Jupyter Notebook:** For interactive data exploration. <br>
 
 # Insights:
+Total Cities= 679 <br>
+City with highest prices 24K- Giridih 70440 <br>
+City with lowest prices 24K- Car-Nicobar 70200 <br>
+Average_24K 70330.54 <br>
+Average_22K 65651.22 <br>
+![Screenshot (164)](https://github.com/user-attachments/assets/1f005c40-79b8-4e96-829e-a053b97fda94)   <br>
+
+![Screenshot (165)](https://github.com/user-attachments/assets/409b059c-ac4a-4537-a1e8-5759fa43a624)  <br>
 
 # Applications
 This project can be used by investors, analysts, and researchers who are interested in understanding gold price trends and making data-driven decisions. It can also serve as a foundation for more advanced analyses, such as predicting future price movements based on historical trends.
